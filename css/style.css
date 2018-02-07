@@ -207,7 +207,7 @@ input {
 	width: 100%;
 }
 #preview.loading #iframe {
-	opacity: .5;
+	/* opacity: .5; */
 }
 
 .button {
